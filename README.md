@@ -36,11 +36,10 @@
 <!-- 每日一句名言 -->
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Daily Quotations</h2>
 
-<kbd>2026-01-01</kbd>
+<zzz>2026-01-01</zzz>
 
-- 我是悲观主义者。别人为胜利而战，我不是。我总是战斗，偶尔会赢。 —— 理查德·斯托曼
+"为有牺牲多壮志，敢教日月换新天。"（《七律·到韶山》）
 
-<!-- 打字机效果的文字 -->
 ![zzz的github凡人修仙传](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=zzz%E7%9A%84github%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0)
 
 <!-- 凡人修仙传贡献图 -->
@@ -59,4 +58,28 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green.svg" />
   <img src="/profile-green.svg" />
 </picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
