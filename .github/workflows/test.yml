@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Echo Hello
-        run: echo "Hello, World!"
+        run: echo "Hello, World!" && ls
       - name: Run test script
         run: node test.js
-        

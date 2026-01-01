@@ -10,9 +10,9 @@ on:
   workflow_dispatch:
 
   # push到main分支时运行一次
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate-snake:
