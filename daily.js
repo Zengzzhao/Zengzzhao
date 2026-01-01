@@ -1,3 +1,4 @@
+// 更新 README.md 文件中的每日语录
 import fs from "fs";
 import { sample } from "lodash-es";
 
