@@ -1,16 +1,13 @@
-name: Test
+name: Daily Update
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  test-job:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Echo Hello
-        run: echo "Hello, World!"
       - name: Checkout repository
         uses: actions/checkout@v4
       - name: Install pnpm
@@ -24,5 +21,5 @@ jobs:
           cache: pnpm
       - name: Install dependencies
         run: pnpm install
-      - name: Run test script
-        run: node test.js
+      - name: Run daily script
+        run: node daily.js
