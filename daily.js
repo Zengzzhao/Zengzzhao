@@ -24,7 +24,8 @@ async function run() {
     // 获取随机一句语录
     const texts = fs.readFileSync("./text.txt", "utf-8").split("\n");
     const text = sample(texts);
-
+    console.log(text);
+    
     // 构造新的 README 内容
     const newReadme = `${before}
 
