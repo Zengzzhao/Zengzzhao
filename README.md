@@ -38,7 +38,7 @@
 
 <zzz>2026-01-01</zzz>
 
-"为有牺牲多壮志，敢教日月换新天。"（《七律·到韶山》）
+"星星之火，可以燎原。"（《星星之火，可以燎原》）
 
 ![zzz的github凡人修仙传](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=zzz%E7%9A%84github%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0)
 
@@ -58,6 +58,8 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green.svg" />
   <img src="/profile-green.svg" />
 </picture>
+
+
 
 
 
