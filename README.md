@@ -36,9 +36,9 @@
 <!-- 每日一句名言 -->
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Daily Quotations</h2>
 
-<zzz>2026-01-03</zzz>
+<zzz>2026-01-04</zzz>
 
-"我们不但要提出任务，而且要解决完成任务的方法问题。"（《关心群众生活，注意工作方法》）
+"红军不怕远征难，万水千山只等闲。"（《七律·长征》）
 
 ![zzz的github凡人修仙传](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=zzz%E7%9A%84github%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0)
 
@@ -58,6 +58,8 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green.svg" />
   <img src="/profile-green.svg" />
 </picture>
+
+
 
 
 
