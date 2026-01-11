@@ -36,9 +36,9 @@
 <!-- 每日一句名言 -->
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Daily Quotations</h2>
 
-<zzz>2026-01-10</zzz>
+<zzz>2026-01-11</zzz>
 
-"踏遍青山人未老，风景这边独好。"（《清平乐·会昌》
+"雄关漫道真如铁，而今迈步从头越。"（《忆秦娥·娄山关》）
 
 ![zzz的github凡人修仙传](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=zzz%E7%9A%84github%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0)
 
@@ -58,6 +58,8 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green.svg" />
   <img src="/profile-green.svg" />
 </picture>
+
+
 
 
 
