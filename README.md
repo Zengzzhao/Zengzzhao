@@ -36,9 +36,9 @@
 <!-- 每日一句名言 -->
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Daily Quotations</h2>
 
-<zzz>2026-02-12</zzz>
+<zzz>2026-02-13</zzz>
 
-"一万年太久，只争朝夕。"（《满江红·和郭沫若同志》）
+"革命不是请客吃饭，不是做文章，不是绘画绣花，不能那样雅致，那样从容不迫，文质彬彬，那样温良恭俭让。"（《湖南农民运动考察报告》）
 
 ![zzz的github凡人修仙传](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=zzz%E7%9A%84github%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0)
 
@@ -58,6 +58,8 @@
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green.svg" />
   <img src="/profile-green.svg" />
 </picture>
+
+
 
 
 
