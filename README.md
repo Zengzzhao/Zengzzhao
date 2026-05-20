@@ -5,8 +5,8 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
 - 🏫 A postgraduate student of CUC
-- 🌲 Currently working as an intern at kuaishou
-- 🌱 Worked as an intern at BIGAI
+- 🌲 Currently working as an intern at Tencent
+- 🌱 Worked as an intern at kuaishou,BIGAI
 - 🔗 https://zengzzhao.github.io/
 
 <!-- 访客数量统计 -->
