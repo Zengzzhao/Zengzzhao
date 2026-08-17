@@ -33,6 +33,12 @@
 
 [![Commit to Linzhe141 vue-markdown-renderer][vue-markdown-renderer-src]][vue-markdown-renderer-href]
 
+<!-- ByteDance的web-infra-dev的rsdoctor的贡献 -->
+[rsdoctor-src]:https://img.shields.io/github/commit-activity/t/web-infra-dev/rsdoctor?authorFilter=zengzzhao&style=social&label=rsdoctor
+[rsdoctor-href]:https://github.com/web-infra-dev/rsdoctor/commits/main/?author=Zengzzhao
+
+[![Commit to ByteDance/web-infra-dev rsdoctor][rsdoctor-src]][rsdoctor-href]
+
 <!-- 每日一句名言 -->
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Daily Quotations</h2>
 
