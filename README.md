@@ -39,6 +39,12 @@
 
 [![Commit to ByteDance/web-infra-dev rsdoctor][rsdoctor-src]][rsdoctor-href]
 
+<!-- marktext的贡献 -->
+[marktext-src]:https://img.shields.io/github/commit-activity/t/marktext/marktext?authorFilter=zengzzhao&style=social&label=marktext
+[marktext-href]:https://github.com/marktext/marktext/commit/3ee675ba1f7c9cdf3ae0129f5c570342c989c4d9
+
+[![Commit to marktext][marktext-src]][marktext-href]
+
 <!-- 每日一句名言 -->
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Daily Quotations</h2>
 
